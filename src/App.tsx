@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-        {/* <Home 
+        <Home 
           titulo='Minha primeira postagem'
           texto='Texto da postagem'
         />
@@ -18,7 +18,7 @@ function App() {
 
         <Contador />
 
-        <br /> */}
+        <br />
 
         <Tarefa />
     </>
